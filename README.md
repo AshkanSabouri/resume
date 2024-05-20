@@ -4,8 +4,8 @@
 
 - **Name**: Ashkan Sabouri
 - **Profession** : Network & Infrastructure Administrator
-- **Birth:** 2002-06-22
-- **Country:** Iran
+- **Birth** : 2002-06-22
+- **Country** : Iran
 
 ------
 
@@ -15,7 +15,7 @@
 
 - -> September, 2020 - Now
 
-- **Field:** Software Engineering Bachelor Degree
+- **Field** : Software Engineering Bachelor Degree
 
 ------
 
@@ -30,7 +30,7 @@
 - **Field** : Network & Infrastructure Administrator
 - -> June, 2020 - March, 2024
 
-**Work Summary **: 
+**Work Summary ** : 
 
 - Installation and configuration of HP servers across various generations G7, G8, G9, and G10 
 - Working with virtualization systems such as ESXI, Hyper-V Designing organizational backup plans using Veeam 
@@ -41,20 +41,20 @@
 
 ## Skills
 
-- **OS** :`Debian Base OS Like Ubuntu Kali Debian` 
+- **OS** : `Debian Base OS Like Ubuntu Kali Debian` 
 - **Virtualization** : `ESXI` `Hyper-V` `Basis KVM` 
-- **Network **: `MikroTik Routing And Tunneling` `Kerio Control` `Cisco Routing And Switching` `Pfsense`
+- **Network** : `MikroTik Routing And Tunneling` `Kerio Control` `Cisco Routing And Switching` `Pfsense`
 - **Programming** : `C#`  `Basis Python And Django` `Expert In Unity Engine`
 - **VoIP** : `Issabel` `Elastix` `Basis Free PBX`
 - **Microsoft** : `DNS Server` `DHCP Server` `Active Directory` `RDAPP Service` 
 - **Backup And Replicate** : `Veeam Backup` `Windows Backup Service`
-- **Database Manage ** : `MySQL` `PostgresSQL` `SQL Server` `Redis`
+- **Database Manage** : `MySQL` `PostgresSQL` `SQL Server` `Redis`
 - **Web Design** : `Wordpress` `Joomla`
 - **Meeting Service** : `BigBlueButton` `Adobe Connect`
 - **Graphic Design** : `Expert In Adobe Photoshop` `Basis Blender`
 - **Mail Service** : `Mdaemon` `Basis Exchange Server`
 - **Containerization** : `Docker`
-- **Other **:  `Nextcloud` `Infisical` `Telegram Bot Development` `Apache2` `AAPanel` `Rocketchat` 
+- **Other ** :  `Nextcloud` `Infisical` `Telegram Bot Development` `Apache2` `AAPanel` `Rocketchat` 
 - `MikroTik CAPsMAN` `MikroTik Hotspot` `Bitwarden` `Perfex CRM` `Bash Script` 
 
 ------
@@ -92,6 +92,6 @@ My deep interest in computers since childhood and starting my career at a young 
 ## **Contact Information**
 
 - **Email** : <sabouri.ashkan@yahoo.com>
-- **Phone **: +989212056779
-- **GitHub **: [My-GitHub](https://github.com/AshkanSabouri/)
+- **Phone ** : +989212056779
+- **GitHub ** : [My-GitHub](https://github.com/AshkanSabouri/)
 - **LinkedIn** : [My-LinkedIn](https://www.linkedin.com/in/ashkan-sabouri-5a37541b5)
