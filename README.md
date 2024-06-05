@@ -55,7 +55,7 @@
 - **Mail Service** : `Mdaemon` `Basis Exchange Server`
 - **Containerization** : `Docker`
 - **Other ** :  `Nextcloud` `Infisical` `Telegram Bot Development` `Apache2` `AAPanel` `Rocketchat` 
-- `MikroTik CAPsMAN` `MikroTik Hotspot` `Bitwarden` `Perfex CRM` `Bash Script` 
+- `MikroTik CAPsMAN` `MikroTik Hotspot` `Bitwarden` `Perfex CRM` `Bash Script` `Selenium` 
 
 ------
 
