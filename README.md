@@ -28,7 +28,7 @@
 - **Address** : Unit 14, 5th Floor, No. 108, Karimkhan Zand St, Tehran, Iran.
 
 - **Field** : Network & Infrastructure Administrator
-- -> June, 2020 - March, 2024
+- -> June, 2020 - Now
 
 **Work Summary ** : 
 
@@ -92,6 +92,6 @@ My deep interest in computers since childhood and starting my career at a young 
 ## **Contact Information**
 
 - **Email** : <sabouri.ashkan@yahoo.com>
-- **Phone ** : +989212056779
-- **GitHub ** : [My-GitHub](https://github.com/AshkanSabouri/)
+- **Phone** : +989212056779
+- **GitHub** : [My-GitHub](https://github.com/AshkanSabouri/)
 - **LinkedIn** : [My-LinkedIn](https://www.linkedin.com/in/ashkan-sabouri-5a37541b5)
